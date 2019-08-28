@@ -2,6 +2,13 @@ package chapter2;
 
 import utils.ArrayUtils;
 
+/**
+ * Bubble sort
+ * 
+ * @author johnniang
+ * @date Aug 28, 2019
+ *
+ */
 public class BubbleSort {
 
 	public static void bubbleSort(int[] data) {
